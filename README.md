@@ -12,19 +12,16 @@ Our target was to detect Alzheimer's Disease and we have gained 80.25% accuracy 
 
 Dependency :
 
-Nilearn
-Tensorflow
-keras
-Scikit-learn
-OpenCV
-Matplotlib
-Jupyter Notebook
+1. Nilearn
+2. Tensorflow
+3. keras
+4. Scikit-learn
+5. OpenCV
+6. Matplotlib
+7. Jupyter Notebook
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 H. M. Tarek Ullah
