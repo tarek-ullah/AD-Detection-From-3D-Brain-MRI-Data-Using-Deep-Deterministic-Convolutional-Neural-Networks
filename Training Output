@@ -1,0 +1,1096 @@
+Epoch 1 completed out of 1000 loss: 741540286.125
+Accuracy: 0.641975
+Epoch 2 completed out of 1000 loss: 30742652.844
+Accuracy: 0.54321
+Epoch 3 completed out of 1000 loss: 153866181.898
+Accuracy: 0.617284
+Epoch 4 completed out of 1000 loss: 87990498.75
+Accuracy: 0.679012
+Epoch 5 completed out of 1000 loss: 59119735.3555
+Accuracy: 0.333333
+Epoch 6 completed out of 1000 loss: 37467854.0332
+Accuracy: 0.641975
+Epoch 7 completed out of 1000 loss: 17703640.8906
+Accuracy: 0.703704
+Epoch 8 completed out of 1000 loss: 10079906.8105
+Accuracy: 0.45679
+Epoch 9 completed out of 1000 loss: 4955886.22266
+Accuracy: 0.506173
+Epoch 10 completed out of 1000 loss: 1873761.81632
+Accuracy: 0.592593
+Epoch 11 completed out of 1000 loss: 1201413.80971
+Accuracy: 0.333333
+Epoch 12 completed out of 1000 loss: 253975.637296
+Accuracy: 0.45679
+Epoch 13 completed out of 1000 loss: 243478.847854
+Accuracy: 0.37037
+Epoch 14 completed out of 1000 loss: 64602.7602632
+Accuracy: 0.444444
+Epoch 15 completed out of 1000 loss: 128764.717874
+Accuracy: 0.444444
+Epoch 16 completed out of 1000 loss: 59929.469714
+Accuracy: 0.345679
+Epoch 17 completed out of 1000 loss: 31348.7347521
+Accuracy: 0.407407
+Epoch 18 completed out of 1000 loss: 84248.4860903
+Accuracy: 0.654321
+Epoch 19 completed out of 1000 loss: 63560.2465192
+Accuracy: 0.679012
+Epoch 20 completed out of 1000 loss: 14877.6570292
+Accuracy: 0.641975
+Epoch 21 completed out of 1000 loss: 40667.0436313
+Accuracy: 0.728395
+Epoch 22 completed out of 1000 loss: 13483.7580714
+Accuracy: 0.728395
+Epoch 23 completed out of 1000 loss: 40031.1862487
+Accuracy: 0.654321
+Epoch 24 completed out of 1000 loss: 2238.3326785
+Accuracy: 0.641975
+Epoch 25 completed out of 1000 loss: 451.962482214
+Accuracy: 0.654321
+Epoch 26 completed out of 1000 loss: 15955.4513398
+Accuracy: 0.666667
+Epoch 27 completed out of 1000 loss: 39574.1901874
+Accuracy: 0.703704
+Epoch 28 completed out of 1000 loss: 432.522716284
+Accuracy: 0.62963
+Epoch 29 completed out of 1000 loss: 19179.5575348
+Accuracy: 0.679012
+Epoch 30 completed out of 1000 loss: 201.944913618
+Accuracy: 0.679012
+Epoch 31 completed out of 1000 loss: 3117.19245002
+Accuracy: 0.62963
+Epoch 32 completed out of 1000 loss: 15235.535978
+Accuracy: 0.691358
+Epoch 33 completed out of 1000 loss: 518.346877098
+Accuracy: 0.604938
+Epoch 34 completed out of 1000 loss: 4360.96990332
+Accuracy: 0.691358
+Epoch 35 completed out of 1000 loss: 38571.6877211
+Accuracy: 0.604938
+Epoch 36 completed out of 1000 loss: 29461.6669343
+Accuracy: 0.580247
+Epoch 37 completed out of 1000 loss: 203.259521931
+Accuracy: 0.691358
+Epoch 38 completed out of 1000 loss: 9194.73226941
+Accuracy: 0.691358
+Epoch 39 completed out of 1000 loss: 199.644628525
+Accuracy: 0.62963
+Epoch 40 completed out of 1000 loss: 1717.38073319
+Accuracy: 0.617284
+Epoch 41 completed out of 1000 loss: 201.169366986
+Accuracy: 0.654321
+Epoch 42 completed out of 1000 loss: 203.500024915
+Accuracy: 0.691358
+Epoch 43 completed out of 1000 loss: 198.109645575
+Accuracy: 0.604938
+Epoch 44 completed out of 1000 loss: 199.657790452
+Accuracy: 0.641975
+Epoch 45 completed out of 1000 loss: 200.058068424
+Accuracy: 0.641975
+Epoch 46 completed out of 1000 loss: 201.578445792
+Accuracy: 0.666667
+Epoch 47 completed out of 1000 loss: 202.000022918
+Accuracy: 0.679012
+Epoch 48 completed out of 1000 loss: 213.273755431
+Accuracy: 0.654321
+Epoch 49 completed out of 1000 loss: 201.946327388
+Accuracy: 0.666667
+Epoch 50 completed out of 1000 loss: 206.404783458
+Accuracy: 0.740741
+Epoch 51 completed out of 1000 loss: 205.243997931
+Accuracy: 0.740741
+Epoch 52 completed out of 1000 loss: 200.124429851
+Accuracy: 0.641975
+Epoch 53 completed out of 1000 loss: 208.150714904
+Accuracy: 0.777778
+Epoch 54 completed out of 1000 loss: 200.856292404
+Accuracy: 0.654321
+Epoch 55 completed out of 1000 loss: 203.419882298
+Accuracy: 0.691358
+Epoch 56 completed out of 1000 loss: 202.706528395
+Accuracy: 0.679012
+Epoch 57 completed out of 1000 loss: 201.94979012
+Accuracy: 0.666667
+Epoch 58 completed out of 1000 loss: 198.927686155
+Accuracy: 0.617284
+Epoch 59 completed out of 1000 loss: 6898.89252222
+Accuracy: 0.654321
+Epoch 60 completed out of 1000 loss: 203.471490055
+Accuracy: 0.691358
+Epoch 61 completed out of 1000 loss: 710.841493249
+Accuracy: 0.641975
+Epoch 62 completed out of 1000 loss: 203.087677389
+Accuracy: 0.691358
+Epoch 63 completed out of 1000 loss: 200.429774702
+Accuracy: 0.641975
+Epoch 64 completed out of 1000 loss: 14740.4668446
+Accuracy: 0.691358
+Epoch 65 completed out of 1000 loss: 198.153782308
+Accuracy: 0.604938
+Epoch 66 completed out of 1000 loss: 206.128774285
+Accuracy: 0.740741
+Epoch 67 completed out of 1000 loss: 201.577058969
+Accuracy: 0.666667
+Epoch 68 completed out of 1000 loss: 204.348728985
+Accuracy: 0.580247
+Epoch 69 completed out of 1000 loss: 203.483231813
+Accuracy: 0.691358
+Epoch 70 completed out of 1000 loss: 203.468105048
+Accuracy: 0.691358
+Epoch 71 completed out of 1000 loss: 201.947926551
+Accuracy: 0.666667
+Epoch 72 completed out of 1000 loss: 203.469461024
+Accuracy: 0.691358
+Epoch 73 completed out of 1000 loss: 207.072095543
+Accuracy: 0.753086
+Epoch 74 completed out of 1000 loss: 1330.85600951
+Accuracy: 0.666667
+Epoch 75 completed out of 1000 loss: 39000.1217414
+Accuracy: 0.679012
+Epoch 76 completed out of 1000 loss: 203.417104125
+Accuracy: 0.691358
+Epoch 77 completed out of 1000 loss: 202.670051932
+Accuracy: 0.679012
+Epoch 78 completed out of 1000 loss: 205.551956087
+Accuracy: 0.728395
+Epoch 79 completed out of 1000 loss: 206.241906106
+Accuracy: 0.740741
+Epoch 80 completed out of 1000 loss: 199.166351199
+Accuracy: 0.617284
+Epoch 81 completed out of 1000 loss: 204.876942009
+Accuracy: 0.716049
+Epoch 82 completed out of 1000 loss: 199.799340218
+Accuracy: 0.62963
+Epoch 83 completed out of 1000 loss: 196.667924881
+Accuracy: 0.580247
+Epoch 84 completed out of 1000 loss: 201.961966455
+Accuracy: 0.666667
+Epoch 85 completed out of 1000 loss: 199.677760869
+Accuracy: 0.62963
+Epoch 86 completed out of 1000 loss: 203.558948576
+Accuracy: 0.691358
+Epoch 87 completed out of 1000 loss: 200.855022907
+Accuracy: 0.654321
+Epoch 88 completed out of 1000 loss: 207.180543214
+Accuracy: 0.753086
+Epoch 89 completed out of 1000 loss: 203.427271664
+Accuracy: 0.691358
+Epoch 90 completed out of 1000 loss: 201.254524767
+Accuracy: 0.654321
+Epoch 91 completed out of 1000 loss: 202.035131931
+Accuracy: 0.666667
+Epoch 92 completed out of 1000 loss: 199.698189169
+Accuracy: 0.62963
+Epoch 93 completed out of 1000 loss: 201.989520401
+Accuracy: 0.666667
+Epoch 94 completed out of 1000 loss: 205.712462664
+Accuracy: 0.728395
+Epoch 95 completed out of 1000 loss: 202.702399731
+Accuracy: 0.679012
+Epoch 96 completed out of 1000 loss: 201.181265056
+Accuracy: 0.654321
+Epoch 97 completed out of 1000 loss: 205.681318372
+Accuracy: 0.728395
+Epoch 98 completed out of 1000 loss: 204.935325265
+Accuracy: 0.716049
+Epoch 99 completed out of 1000 loss: 207.044973671
+Accuracy: 0.753086
+Epoch 100 completed out of 1000 loss: 197.635958999
+Accuracy: 0.592593
+Epoch 101 completed out of 1000 loss: 197.783046663
+Accuracy: 0.604938
+Epoch 102 completed out of 1000 loss: 203.454747409
+Accuracy: 0.691358
+Epoch 103 completed out of 1000 loss: 204.155942023
+Accuracy: 0.703704
+Epoch 104 completed out of 1000 loss: 204.887013197
+Accuracy: 0.716049
+Epoch 105 completed out of 1000 loss: 202.07104063
+Accuracy: 0.666667
+Epoch 106 completed out of 1000 loss: 203.444175303
+Accuracy: 0.691358
+Epoch 107 completed out of 1000 loss: 200.55538398
+Accuracy: 0.641975
+Epoch 108 completed out of 1000 loss: 201.941320032
+Accuracy: 0.666667
+Epoch 109 completed out of 1000 loss: 202.717327803
+Accuracy: 0.679012
+Epoch 110 completed out of 1000 loss: 201.947450072
+Accuracy: 0.666667
+Epoch 111 completed out of 1000 loss: 199.675272852
+Accuracy: 0.62963
+Epoch 112 completed out of 1000 loss: 206.54269737
+Accuracy: 0.740741
+Epoch 113 completed out of 1000 loss: 203.541541427
+Accuracy: 0.691358
+Epoch 114 completed out of 1000 loss: 196.691798389
+
+Accuracy: 0.567901
+Epoch 115 completed out of 1000 loss: 200.467879385
+Accuracy: 0.641975
+Epoch 116 completed out of 1000 loss: 200.40922603
+Accuracy: 0.641975
+Epoch 117 completed out of 1000 loss: 200.412735969
+Accuracy: 0.641975
+Epoch 118 completed out of 1000 loss: 206.133414447
+Accuracy: 0.740741
+Epoch 119 completed out of 1000 loss: 204.953309298
+Accuracy: 0.716049
+Epoch 120 completed out of 1000 loss: 201.948192328
+Accuracy: 0.666667
+Epoch 121 completed out of 1000 loss: 201.96029231
+Accuracy: 0.666667
+Epoch 122 completed out of 1000 loss: 204.180055052
+Accuracy: 0.703704
+Epoch 123 completed out of 1000 loss: 209.880976588
+Accuracy: 0.802469
+Epoch 124 completed out of 1000 loss: 203.460976839
+Accuracy: 0.691358
+Epoch 125 completed out of 1000 loss: 202.084285259
+Accuracy: 0.666667
+Epoch 126 completed out of 1000 loss: 199.075507045
+Accuracy: 0.617284
+Epoch 127 completed out of 1000 loss: 204.872591108
+Accuracy: 0.716049
+Epoch 128 completed out of 1000 loss: 204.196378946
+Accuracy: 0.703704
+Epoch 129 completed out of 1000 loss: 201.248016536
+Accuracy: 0.654321
+Epoch 130 completed out of 1000 loss: 202.713185906
+Accuracy: 0.679012
+Epoch 131 completed out of 1000 loss: 204.912802309
+Accuracy: 0.716049
+Epoch 132 completed out of 1000 loss: 207.01516068
+Accuracy: 0.753086
+Epoch 133 completed out of 1000 loss: 202.016273916
+Accuracy: 0.666667
+Epoch 134 completed out of 1000 loss: 207.025622189
+Accuracy: 0.753086
+Epoch 135 completed out of 1000 loss: 199.140342623
+Accuracy: 0.617284
+Epoch 136 completed out of 1000 loss: 201.948155791
+Accuracy: 0.666667
+Epoch 137 completed out of 1000 loss: 302.752403438
+Accuracy: 0.691358
+Epoch 138 completed out of 1000 loss: 196.688082546
+Accuracy: 0.580247
+Epoch 139 completed out of 1000 loss: 203.459798425
+Accuracy: 0.691358
+Epoch 140 completed out of 1000 loss: 198.911742538
+Accuracy: 0.617284
+Epoch 141 completed out of 1000 loss: 201.9199965
+Accuracy: 0.666667
+Epoch 142 completed out of 1000 loss: 200.437749624
+Accuracy: 0.641975
+Epoch 143 completed out of 1000 loss: 197.708795011
+Accuracy: 0.604938
+Epoch 144 completed out of 1000 loss: 205.885697573
+Accuracy: 0.728395
+Epoch 145 completed out of 1000 loss: 198.101701647
+Accuracy: 0.604938
+Epoch 146 completed out of 1000 loss: 204.245379865
+Accuracy: 0.703704
+Epoch 147 completed out of 1000 loss: 198.188372254
+Accuracy: 0.604938
+Epoch 148 completed out of 1000 loss: 201.211509824
+Accuracy: 0.654321
+Epoch 149 completed out of 1000 loss: 205.045973927
+Accuracy: 0.716049
+Epoch 150 completed out of 1000 loss: 193.392247319
+Accuracy: 0.530864
+Epoch 151 completed out of 1000 loss: 203.576765865
+Accuracy: 0.691358
+Epoch 152 completed out of 1000 loss: 200.370280445
+Accuracy: 0.641975
+Epoch 153 completed out of 1000 loss: 198.821829498
+Accuracy: 0.617284
+Epoch 154 completed out of 1000 loss: 196.443229169
+Accuracy: 0.580247
+Epoch 155 completed out of 1000 loss: 202.021476239
+Accuracy: 0.666667
+Epoch 156 completed out of 1000 loss: 208.146398932
+Accuracy: 0.765432
+Epoch 157 completed out of 1000 loss: 204.933930159
+Accuracy: 0.716049
+Epoch 158 completed out of 1000 loss: 198.968229055
+Accuracy: 0.617284
+Epoch 159 completed out of 1000 loss: 202.738135159
+Accuracy: 0.679012
+Epoch 160 completed out of 1000 loss: 205.696927041
+Accuracy: 0.728395
+Epoch 161 completed out of 1000 loss: 203.47401455
+Accuracy: 0.691358
+Epoch 162 completed out of 1000 loss: 201.955970466
+Accuracy: 0.666667
+Epoch 163 completed out of 1000 loss: 198.970905602
+Accuracy: 0.617284
+Epoch 164 completed out of 1000 loss: 204.185291231
+Accuracy: 0.703704
+Epoch 165 completed out of 1000 loss: 203.425409704
+Accuracy: 0.691358
+Epoch 166 completed out of 1000 loss: 204.167111218
+Accuracy: 0.703704
+Epoch 167 completed out of 1000 loss: 204.181109726
+Accuracy: 0.703704
+Epoch 168 completed out of 1000 loss: 207.03416869
+Accuracy: 0.753086
+Epoch 169 completed out of 1000 loss: 202.75176993
+Accuracy: 0.679012
+Epoch 170 completed out of 1000 loss: 201.954230547
+Accuracy: 0.666667
+Epoch 171 completed out of 1000 loss: 203.401652247
+Accuracy: 0.691358
+Epoch 172 completed out of 1000 loss: 199.76155436
+Accuracy: 0.62963
+Epoch 173 completed out of 1000 loss: 203.444738597
+Accuracy: 0.691358
+Epoch 174 completed out of 1000 loss: 207.048546284
+Accuracy: 0.753086
+Epoch 175 completed out of 1000 loss: 202.011680931
+Accuracy: 0.666667
+Epoch 176 completed out of 1000 loss: 201.228125662
+Accuracy: 0.654321
+Epoch 177 completed out of 1000 loss: 193.554630935
+Accuracy: 0.530864
+Epoch 178 completed out of 1000 loss: 203.518018633
+Accuracy: 0.691358
+Epoch 179 completed out of 1000 loss: 196.508387983
+Accuracy: 0.580247
+Epoch 180 completed out of 1000 loss: 201.96110642
+Accuracy: 0.666667
+Epoch 181 completed out of 1000 loss: 204.326613665
+Accuracy: 0.703704
+Epoch 182 completed out of 1000 loss: 203.811920166
+Accuracy: 0.703704
+Epoch 183 completed out of 1000 loss: 200.408875465
+Accuracy: 0.641975
+Epoch 184 completed out of 1000 loss: 206.442451507
+Accuracy: 0.740741
+Epoch 185 completed out of 1000 loss: 204.172714323
+Accuracy: 0.703704
+Epoch 186 completed out of 1000 loss: 202.022210926
+Accuracy: 0.666667
+Epoch 187 completed out of 1000 loss: 199.747587025
+Accuracy: 0.62963
+Epoch 188 completed out of 1000 loss: 203.441104174
+Accuracy: 0.691358
+Epoch 189 completed out of 1000 loss: 199.706444979
+Accuracy: 0.62963
+Epoch 190 completed out of 1000 loss: 207.935340792
+Accuracy: 0.765432
+Epoch 191 completed out of 1000 loss: 370.819210142
+Accuracy: 0.666667
+Epoch 192 completed out of 1000 loss: 201.247136891
+Accuracy: 0.654321
+Epoch 193 completed out of 1000 loss: 203.419846922
+Accuracy: 0.691358
+Epoch 194 completed out of 1000 loss: 201.928999603
+Accuracy: 0.666667
+Epoch 195 completed out of 1000 loss: 198.149501055
+Accuracy: 0.604938
+Epoch 196 completed out of 1000 loss: 205.733263254
+Accuracy: 0.728395
+Epoch 197 completed out of 1000 loss: 201.932480484
+Accuracy: 0.666667
+Epoch 198 completed out of 1000 loss: 205.650536656
+Accuracy: 0.728395
+Epoch 199 completed out of 1000 loss: 205.685189217
+Accuracy: 0.728395
+Epoch 200 completed out of 1000 loss: 201.257107586
+Accuracy: 0.654321
+Epoch 201 completed out of 1000 loss: 197.46952641
+Accuracy: 0.592593
+Epoch 202 completed out of 1000 loss: 204.284445673
+Accuracy: 0.703704
+Epoch 203 completed out of 1000 loss: 207.13515535
+Accuracy: 0.753086
+Epoch 204 completed out of 1000 loss: 199.051645726
+Accuracy: 0.617284
+Epoch 205 completed out of 1000 loss: 200.450008303
+Accuracy: 0.641975
+Epoch 206 completed out of 1000 loss: 200.439189464
+Accuracy: 0.641975
+Epoch 207 completed out of 1000 loss: 198.512669474
+Accuracy: 0.617284
+Epoch 208 completed out of 1000 loss: 205.021114528
+Accuracy: 0.716049
+Epoch 209 completed out of 1000 loss: 202.668901414
+Accuracy: 0.679012
+Epoch 210 completed out of 1000 loss: 203.476809204
+Accuracy: 0.691358
+Epoch 211 completed out of 1000 loss: 204.889433533
+Accuracy: 0.716049
+Epoch 212 completed out of 1000 loss: 199.001374006
+Accuracy: 0.617284
+Epoch 213 completed out of 1000 loss: 204.976235092
+Accuracy: 0.716049
+Epoch 214 completed out of 1000 loss: 203.43876037
+Accuracy: 0.691358
+Epoch 215 completed out of 1000 loss: 200.518371403
+Accuracy: 0.641975
+Epoch 216 completed out of 1000 loss: 198.211126834
+Accuracy: 0.604938
+Epoch 217 completed out of 1000 loss: 204.211516857
+Accuracy: 0.703704
+Epoch 218 completed out of 1000 loss: 203.404576987
+Accuracy: 0.691358
+Epoch 219 completed out of 1000 loss: 197.438361436
+Accuracy: 0.592593
+Epoch 220 completed out of 1000 loss: 201.978005975
+Accuracy: 0.666667
+Epoch 221 completed out of 1000 loss: 206.476927459
+Accuracy: 0.740741
+Epoch 222 completed out of 1000 loss: 201.961047798
+Accuracy: 0.666667
+Epoch 223 completed out of 1000 loss: 202.696884632
+Accuracy: 0.679012
+Epoch 224 completed out of 1000 loss: 203.444706082
+Accuracy: 0.691358
+Epoch 225 completed out of 1000 loss: 506.308444023
+Accuracy: 0.679012
+Epoch 226 completed out of 1000 loss: 204.144112796
+Accuracy: 0.703704
+Epoch 227 completed out of 1000 loss: 210.549310267
+Accuracy: 0.814815
+Epoch 228 completed out of 1000 loss: 202.840354145
+Accuracy: 0.679012
+Epoch 229 completed out of 1000 loss: 200.625128746
+Accuracy: 0.641975
+Epoch 230 completed out of 1000 loss: 198.255186439
+
+Accuracy: 0.604938
+Epoch 231 completed out of 1000 loss: 204.199203581
+Accuracy: 0.703704
+Epoch 232 completed out of 1000 loss: 205.668296814
+Accuracy: 0.728395
+Epoch 233 completed out of 1000 loss: 199.78791669
+Accuracy: 0.62963
+Epoch 234 completed out of 1000 loss: 203.460117072
+Accuracy: 0.691358
+Epoch 235 completed out of 1000 loss: 202.760801375
+Accuracy: 0.679012
+Epoch 236 completed out of 1000 loss: 198.907472461
+Accuracy: 0.617284
+Epoch 237 completed out of 1000 loss: 202.706974268
+Accuracy: 0.679012
+Epoch 238 completed out of 1000 loss: 202.715866268
+Accuracy: 0.679012
+Epoch 239 completed out of 1000 loss: 203.471793771
+Accuracy: 0.691358
+Epoch 240 completed out of 1000 loss: 204.219769895
+Accuracy: 0.703704
+Epoch 241 completed out of 1000 loss: 199.699503154
+Accuracy: 0.62963
+Epoch 242 completed out of 1000 loss: 196.585165411
+Accuracy: 0.580247
+Epoch 243 completed out of 1000 loss: 205.041979522
+Accuracy: 0.716049
+Epoch 244 completed out of 1000 loss: 1344.19865346
+Accuracy: 0.666667
+Epoch 245 completed out of 1000 loss: 204.949193001
+Accuracy: 0.716049
+Epoch 246 completed out of 1000 loss: 207.093185902
+Accuracy: 0.753086
+Epoch 247 completed out of 1000 loss: 201.338671446
+Accuracy: 0.654321
+Epoch 248 completed out of 1000 loss: 200.49422425
+Accuracy: 0.641975
+Epoch 249 completed out of 1000 loss: 202.683278471
+Accuracy: 0.679012
+Epoch 250 completed out of 1000 loss: 201.255511642
+Accuracy: 0.654321
+Epoch 251 completed out of 1000 loss: 207.154897541
+Accuracy: 0.740741
+Epoch 252 completed out of 1000 loss: 195.946936309
+Accuracy: 0.567901
+Epoch 253 completed out of 1000 loss: 205.003983706
+Accuracy: 0.716049
+Epoch 254 completed out of 1000 loss: 204.168481529
+Accuracy: 0.703704
+Epoch 255 completed out of 1000 loss: 204.859834433
+Accuracy: 0.716049
+Epoch 256 completed out of 1000 loss: 195.929261059
+Accuracy: 0.567901
+Epoch 257 completed out of 1000 loss: 205.026319861
+Accuracy: 0.716049
+Epoch 258 completed out of 1000 loss: 207.131562531
+Accuracy: 0.753086
+Epoch 259 completed out of 1000 loss: 204.861190945
+Accuracy: 0.716049
+Epoch 260 completed out of 1000 loss: 196.781581908
+Accuracy: 0.580247
+Epoch 261 completed out of 1000 loss: 201.952967435
+Accuracy: 0.666667
+Epoch 262 completed out of 1000 loss: 202.709370583
+Accuracy: 0.679012
+Epoch 263 completed out of 1000 loss: 201.215968966
+Accuracy: 0.654321
+Epoch 264 completed out of 1000 loss: 198.913108528
+Accuracy: 0.617284
+Epoch 265 completed out of 1000 loss: 201.169056356
+Accuracy: 0.654321
+Epoch 266 completed out of 1000 loss: 210.910986453
+Accuracy: 0.814815
+Epoch 267 completed out of 1000 loss: 201.267835766
+Accuracy: 0.654321
+Epoch 268 completed out of 1000 loss: 207.074346513
+Accuracy: 0.753086
+Epoch 269 completed out of 1000 loss: 203.460192621
+Accuracy: 0.691358
+Epoch 270 completed out of 1000 loss: 204.175741464
+Accuracy: 0.703704
+Epoch 271 completed out of 1000 loss: 204.146397382
+Accuracy: 0.703704
+Epoch 272 completed out of 1000 loss: 203.409862012
+Accuracy: 0.691358
+Epoch 273 completed out of 1000 loss: 203.538787484
+Accuracy: 0.691358
+Epoch 274 completed out of 1000 loss: 203.426537812
+Accuracy: 0.691358
+Epoch 275 completed out of 1000 loss: 201.259339482
+Accuracy: 0.654321
+Epoch 276 completed out of 1000 loss: 201.261811584
+Accuracy: 0.654321
+Epoch 277 completed out of 1000 loss: 198.17276001
+Accuracy: 0.604938
+Epoch 278 completed out of 1000 loss: 205.783230931
+Accuracy: 0.728395
+Epoch 279 completed out of 1000 loss: 202.683090001
+Accuracy: 0.679012
+Epoch 280 completed out of 1000 loss: 207.07331863
+Accuracy: 0.753086
+Epoch 281 completed out of 1000 loss: 201.333324164
+Accuracy: 0.654321
+Epoch 282 completed out of 1000 loss: 204.162412137
+Accuracy: 0.703704
+Epoch 283 completed out of 1000 loss: 202.705072165
+Accuracy: 0.679012
+Epoch 284 completed out of 1000 loss: 209.184955508
+Accuracy: 0.790123
+Epoch 285 completed out of 1000 loss: 202.006981611
+Accuracy: 0.666667
+Epoch 286 completed out of 1000 loss: 206.95512116
+Accuracy: 0.753086
+Epoch 287 completed out of 1000 loss: 200.640026778
+Accuracy: 0.641975
+Epoch 288 completed out of 1000 loss: 195.216758102
+Accuracy: 0.555556
+Epoch 289 completed out of 1000 loss: 201.196997225
+Accuracy: 0.654321
+Epoch 290 completed out of 1000 loss: 202.726108313
+Accuracy: 0.679012
+Epoch 291 completed out of 1000 loss: 199.643903136
+Accuracy: 0.62963
+Epoch 292 completed out of 1000 loss: 196.476841778
+Accuracy: 0.580247
+Epoch 293 completed out of 1000 loss: 205.103673518
+Accuracy: 0.716049
+Epoch 294 completed out of 1000 loss: 201.189219207
+Accuracy: 0.654321
+Epoch 295 completed out of 1000 loss: 198.883740425
+Accuracy: 0.617284
+Epoch 296 completed out of 1000 loss: 203.523580998
+Accuracy: 0.691358
+Epoch 297 completed out of 1000 loss: 204.992668867
+Accuracy: 0.716049
+Epoch 298 completed out of 1000 loss: 197.806436419
+Accuracy: 0.604938
+Epoch 299 completed out of 1000 loss: 205.777974427
+Accuracy: 0.728395
+Epoch 300 completed out of 1000 loss: 201.214571655
+Accuracy: 0.654321
+Epoch 301 completed out of 1000 loss: 202.002978206
+Accuracy: 0.666667
+Epoch 302 completed out of 1000 loss: 203.5260216
+Accuracy: 0.691358
+Epoch 303 completed out of 1000 loss: 202.687896788
+Accuracy: 0.679012
+Epoch 304 completed out of 1000 loss: 202.678458512
+Accuracy: 0.679012
+Epoch 305 completed out of 1000 loss: 198.147392809
+Accuracy: 0.604938
+Epoch 306 completed out of 1000 loss: 201.981480032
+Accuracy: 0.666667
+Epoch 307 completed out of 1000 loss: 205.735763699
+Accuracy: 0.728395
+Epoch 308 completed out of 1000 loss: 201.994109064
+Accuracy: 0.666667
+Epoch 309 completed out of 1000 loss: 203.421811789
+Accuracy: 0.691358
+Epoch 310 completed out of 1000 loss: 200.444476366
+Accuracy: 0.641975
+Epoch 311 completed out of 1000 loss: 201.233224154
+Accuracy: 0.654321
+Epoch 312 completed out of 1000 loss: 204.196807444
+Accuracy: 0.703704
+Epoch 313 completed out of 1000 loss: 199.730421633
+Accuracy: 0.62963
+Epoch 314 completed out of 1000 loss: 204.97517243
+Accuracy: 0.716049
+Epoch 315 completed out of 1000 loss: 201.217359722
+Accuracy: 0.654321
+Epoch 316 completed out of 1000 loss: 202.739663273
+Accuracy: 0.679012
+Epoch 317 completed out of 1000 loss: 200.454303443
+Accuracy: 0.641975
+Epoch 318 completed out of 1000 loss: 200.512752533
+Accuracy: 0.641975
+Epoch 319 completed out of 1000 loss: 204.935409069
+Accuracy: 0.716049
+Epoch 320 completed out of 1000 loss: 204.257922769
+Accuracy: 0.703704
+Epoch 321 completed out of 1000 loss: 207.023902059
+Accuracy: 0.753086
+Epoch 322 completed out of 1000 loss: 201.257886589
+Accuracy: 0.654321
+Epoch 323 completed out of 1000 loss: 202.707121551
+Accuracy: 0.679012
+Epoch 324 completed out of 1000 loss: 200.482047141
+Accuracy: 0.641975
+Epoch 325 completed out of 1000 loss: 202.012481183
+Accuracy: 0.666667
+Epoch 326 completed out of 1000 loss: 205.626010537
+Accuracy: 0.728395
+Epoch 327 completed out of 1000 loss: 201.95684427
+Accuracy: 0.666667
+Epoch 328 completed out of 1000 loss: 200.481606305
+Accuracy: 0.641975
+Epoch 329 completed out of 1000 loss: 205.680033714
+Accuracy: 0.728395
+Epoch 330 completed out of 1000 loss: 201.217350364
+Accuracy: 0.654321
+Epoch 331 completed out of 1000 loss: 203.406826884
+Accuracy: 0.691358
+Epoch 332 completed out of 1000 loss: 205.671800941
+Accuracy: 0.728395
+Epoch 333 completed out of 1000 loss: 204.91670841
+Accuracy: 0.716049
+Epoch 334 completed out of 1000 loss: 208.388278991
+Accuracy: 0.777778
+Epoch 335 completed out of 1000 loss: 202.060253054
+Accuracy: 0.666667
+Epoch 336 completed out of 1000 loss: 200.561922848
+Accuracy: 0.641975
+Epoch 337 completed out of 1000 loss: 204.923617035
+Accuracy: 0.716049
+Epoch 338 completed out of 1000 loss: 198.301683396
+Accuracy: 0.604938
+Epoch 339 completed out of 1000 loss: 204.196571141
+Accuracy: 0.703704
+Epoch 340 completed out of 1000 loss: 203.418730795
+Accuracy: 0.691358
+Epoch 341 completed out of 1000 loss: 199.663671613
+Accuracy: 0.62963
+Epoch 342 completed out of 1000 loss: 202.718208194
+Accuracy: 0.679012
+Epoch 343 completed out of 1000 loss: 200.470861107
+Accuracy: 0.641975
+Epoch 344 completed out of 1000 loss: 198.89865613
+Accuracy: 0.617284
+Epoch 345 completed out of 1000 loss: 207.956457675
+Accuracy: 0.765432
+Epoch 346 completed out of 1000 loss: 201.959343612
+
+Accuracy: 0.666667
+Epoch 347 completed out of 1000 loss: 204.199424654
+Accuracy: 0.703704
+Epoch 348 completed out of 1000 loss: 205.571873814
+Accuracy: 0.728395
+Epoch 349 completed out of 1000 loss: 206.999105752
+Accuracy: 0.753086
+Epoch 350 completed out of 1000 loss: 198.358700156
+Accuracy: 0.604938
+Epoch 351 completed out of 1000 loss: 202.712747961
+Accuracy: 0.679012
+Epoch 352 completed out of 1000 loss: 201.979062796
+Accuracy: 0.666667
+Epoch 353 completed out of 1000 loss: 204.179287165
+Accuracy: 0.703704
+Epoch 354 completed out of 1000 loss: 203.550145
+Accuracy: 0.691358
+Epoch 355 completed out of 1000 loss: 202.677558869
+Accuracy: 0.679012
+Epoch 356 completed out of 1000 loss: 201.96148178
+Accuracy: 0.666667
+Epoch 357 completed out of 1000 loss: 203.475174904
+Accuracy: 0.691358
+Epoch 358 completed out of 1000 loss: 202.707093596
+Accuracy: 0.679012
+Epoch 359 completed out of 1000 loss: 211.945287764
+Accuracy: 0.839506
+Epoch 360 completed out of 1000 loss: 202.073513955
+Accuracy: 0.666667
+Epoch 361 completed out of 1000 loss: 206.289792717
+Accuracy: 0.740741
+Epoch 362 completed out of 1000 loss: 199.866671503
+Accuracy: 0.62963
+Epoch 363 completed out of 1000 loss: 209.086435109
+Accuracy: 0.790123
+Epoch 364 completed out of 1000 loss: 205.551575035
+Accuracy: 0.728395
+Epoch 365 completed out of 1000 loss: 206.31540522
+Accuracy: 0.740741
+Epoch 366 completed out of 1000 loss: 202.075970083
+Accuracy: 0.666667
+Epoch 367 completed out of 1000 loss: 199.896647662
+Accuracy: 0.62963
+Epoch 368 completed out of 1000 loss: 201.957449883
+Accuracy: 0.666667
+Epoch 369 completed out of 1000 loss: 201.230285168
+Accuracy: 0.654321
+Epoch 370 completed out of 1000 loss: 199.672199041
+Accuracy: 0.62963
+Epoch 371 completed out of 1000 loss: 205.005651981
+Accuracy: 0.716049
+Epoch 372 completed out of 1000 loss: 205.632037818
+Accuracy: 0.728395
+Epoch 373 completed out of 1000 loss: 196.744304121
+Accuracy: 0.580247
+Epoch 374 completed out of 1000 loss: 204.214610398
+Accuracy: 0.703704
+Epoch 375 completed out of 1000 loss: 198.125809431
+Accuracy: 0.604938
+Epoch 376 completed out of 1000 loss: 202.732862473
+Accuracy: 0.679012
+Epoch 377 completed out of 1000 loss: 201.199285805
+Accuracy: 0.654321
+Epoch 378 completed out of 1000 loss: 198.824567288
+Accuracy: 0.617284
+Epoch 379 completed out of 1000 loss: 208.094845384
+Accuracy: 0.765432
+Epoch 380 completed out of 1000 loss: 204.969725251
+Accuracy: 0.716049
+Epoch 381 completed out of 1000 loss: 197.490916014
+Accuracy: 0.592593
+Epoch 382 completed out of 1000 loss: 201.19807148
+Accuracy: 0.654321
+Epoch 383 completed out of 1000 loss: 204.201692641
+Accuracy: 0.703704
+Epoch 384 completed out of 1000 loss: 201.969045997
+Accuracy: 0.666667
+Epoch 385 completed out of 1000 loss: 204.215220362
+Accuracy: 0.703704
+Epoch 386 completed out of 1000 loss: 203.455461979
+Accuracy: 0.691358
+Epoch 387 completed out of 1000 loss: 204.146028101
+Accuracy: 0.703704
+Epoch 388 completed out of 1000 loss: 202.716183662
+Accuracy: 0.679012
+Epoch 389 completed out of 1000 loss: 207.094252467
+Accuracy: 0.753086
+Epoch 390 completed out of 1000 loss: 201.308867693
+Accuracy: 0.654321
+Epoch 391 completed out of 1000 loss: 209.083298802
+Accuracy: 0.790123
+Epoch 392 completed out of 1000 loss: 204.193358779
+Accuracy: 0.703704
+Epoch 393 completed out of 1000 loss: 201.364101022
+Accuracy: 0.654321
+Epoch 394 completed out of 1000 loss: 202.698389143
+Accuracy: 0.679012
+Epoch 395 completed out of 1000 loss: 200.530037642
+Accuracy: 0.641975
+Epoch 396 completed out of 1000 loss: 204.148268253
+Accuracy: 0.703704
+Epoch 397 completed out of 1000 loss: 204.892076552
+Accuracy: 0.716049
+Epoch 398 completed out of 1000 loss: 204.15524435
+Accuracy: 0.703704
+Epoch 399 completed out of 1000 loss: 199.021777421
+Accuracy: 0.617284
+Epoch 400 completed out of 1000 loss: 204.926003844
+Accuracy: 0.716049
+Epoch 401 completed out of 1000 loss: 204.927603483
+Accuracy: 0.716049
+Epoch 402 completed out of 1000 loss: 209.151339382
+Accuracy: 0.790123
+Epoch 403 completed out of 1000 loss: 197.792283565
+Accuracy: 0.592593
+Epoch 404 completed out of 1000 loss: 201.94037509
+Accuracy: 0.666667
+Epoch 405 completed out of 1000 loss: 198.9194161
+Accuracy: 0.617284
+Epoch 406 completed out of 1000 loss: 206.440760434
+Accuracy: 0.740741
+Epoch 407 completed out of 1000 loss: 206.345543504
+Accuracy: 0.740741
+Epoch 408 completed out of 1000 loss: 198.2913405
+Accuracy: 0.604938
+Epoch 409 completed out of 1000 loss: 201.922722101
+Accuracy: 0.666667
+Epoch 410 completed out of 1000 loss: 206.518422991
+Accuracy: 0.740741
+Epoch 411 completed out of 1000 loss: 199.749634176
+Accuracy: 0.62963
+Epoch 412 completed out of 1000 loss: 202.017179161
+Accuracy: 0.666667
+Epoch 413 completed out of 1000 loss: 198.178385884
+Accuracy: 0.604938
+Epoch 414 completed out of 1000 loss: 202.77301684
+Accuracy: 0.679012
+Epoch 415 completed out of 1000 loss: 201.201598585
+Accuracy: 0.654321
+Epoch 416 completed out of 1000 loss: 206.429987431
+Accuracy: 0.740741
+Epoch 417 completed out of 1000 loss: 205.575289994
+Accuracy: 0.728395
+Epoch 418 completed out of 1000 loss: 208.373247474
+Accuracy: 0.777778
+Epoch 419 completed out of 1000 loss: 202.063783467
+Accuracy: 0.666667
+Epoch 420 completed out of 1000 loss: 204.164846867
+Accuracy: 0.703704
+Epoch 421 completed out of 1000 loss: 198.342310011
+Accuracy: 0.604938
+Epoch 422 completed out of 1000 loss: 204.949895859
+Accuracy: 0.716049
+Epoch 423 completed out of 1000 loss: 202.688900381
+Accuracy: 0.679012
+Epoch 424 completed out of 1000 loss: 202.749634653
+Accuracy: 0.679012
+Epoch 425 completed out of 1000 loss: 198.220662057
+Accuracy: 0.604938
+Epoch 426 completed out of 1000 loss: 202.689192951
+Accuracy: 0.679012
+Epoch 427 completed out of 1000 loss: 199.675734192
+Accuracy: 0.62963
+Epoch 428 completed out of 1000 loss: 200.406006962
+Accuracy: 0.641975
+Epoch 429 completed out of 1000 loss: 205.012380153
+Accuracy: 0.716049
+Epoch 430 completed out of 1000 loss: 205.656984419
+Accuracy: 0.728395
+Epoch 431 completed out of 1000 loss: 206.344064862
+Accuracy: 0.740741
+Epoch 432 completed out of 1000 loss: 200.60755384
+Accuracy: 0.641975
+Epoch 433 completed out of 1000 loss: 201.978796929
+Accuracy: 0.666667
+Epoch 434 completed out of 1000 loss: 201.296581835
+Accuracy: 0.654321
+Epoch 435 completed out of 1000 loss: 195.870619357
+Accuracy: 0.567901
+Epoch 436 completed out of 1000 loss: 203.562064052
+Accuracy: 0.691358
+Epoch 437 completed out of 1000 loss: 201.186113805
+Accuracy: 0.654321
+Epoch 438 completed out of 1000 loss: 204.236331105
+Accuracy: 0.703704
+Epoch 439 completed out of 1000 loss: 204.933736175
+Accuracy: 0.716049
+Epoch 440 completed out of 1000 loss: 201.209579706
+Accuracy: 0.654321
+Epoch 441 completed out of 1000 loss: 204.208579749
+Accuracy: 0.703704
+Epoch 442 completed out of 1000 loss: 202.682036191
+Accuracy: 0.679012
+Epoch 443 completed out of 1000 loss: 198.331101596
+Accuracy: 0.604938
+Epoch 444 completed out of 1000 loss: 200.411347389
+Accuracy: 0.641975
+Epoch 445 completed out of 1000 loss: 206.412136763
+Accuracy: 0.740741
+Epoch 446 completed out of 1000 loss: 200.453326881
+Accuracy: 0.641975
+Epoch 447 completed out of 1000 loss: 200.448673189
+Accuracy: 0.641975
+Epoch 448 completed out of 1000 loss: 201.234082133
+Accuracy: 0.654321
+Epoch 449 completed out of 1000 loss: 205.740550578
+Accuracy: 0.728395
+Epoch 450 completed out of 1000 loss: 203.494995743
+Accuracy: 0.691358
+Epoch 451 completed out of 1000 loss: 204.192386955
+Accuracy: 0.703704
+Epoch 452 completed out of 1000 loss: 200.505853087
+Accuracy: 0.641975
+Epoch 453 completed out of 1000 loss: 201.998942494
+Accuracy: 0.666667
+Epoch 454 completed out of 1000 loss: 204.191842407
+Accuracy: 0.703704
+Epoch 455 completed out of 1000 loss: 203.461813182
+Accuracy: 0.691358
+Epoch 456 completed out of 1000 loss: 200.50921005
+Accuracy: 0.641975
+Epoch 457 completed out of 1000 loss: 204.179052293
+Accuracy: 0.703704
+Epoch 458 completed out of 1000 loss: 204.859330028
+Accuracy: 0.716049
+Epoch 459 completed out of 1000 loss: 208.466905951
+Accuracy: 0.777778
+Epoch 460 completed out of 1000 loss: 202.753458977
+Accuracy: 0.679012
+Epoch 461 completed out of 1000 loss: 201.372307777
+Accuracy: 0.654321
+Epoch 462 completed out of 1000 loss: 206.99204573
+
+Accuracy: 0.753086
+Epoch 463 completed out of 1000 loss: 204.121024668
+Accuracy: 0.703704
+Epoch 464 completed out of 1000 loss: 201.256401926
+Accuracy: 0.654321
+Epoch 465 completed out of 1000 loss: 203.467370331
+Accuracy: 0.691358
+Epoch 466 completed out of 1000 loss: 201.265074641
+Accuracy: 0.654321
+Epoch 467 completed out of 1000 loss: 202.688844472
+Accuracy: 0.679012
+Epoch 468 completed out of 1000 loss: 203.415182829
+Accuracy: 0.691358
+Epoch 469 completed out of 1000 loss: 202.003039926
+Accuracy: 0.666667
+Epoch 470 completed out of 1000 loss: 201.185202777
+Accuracy: 0.654321
+Epoch 471 completed out of 1000 loss: 201.199051827
+Accuracy: 0.654321
+Epoch 472 completed out of 1000 loss: 204.216120154
+Accuracy: 0.703704
+Epoch 473 completed out of 1000 loss: 201.184522092
+Accuracy: 0.654321
+Epoch 474 completed out of 1000 loss: 207.843739957
+Accuracy: 0.765432
+Epoch 475 completed out of 1000 loss: 199.753796518
+Accuracy: 0.62963
+Epoch 476 completed out of 1000 loss: 201.988257349
+Accuracy: 0.666667
+Epoch 477 completed out of 1000 loss: 201.187419862
+Accuracy: 0.654321
+Epoch 478 completed out of 1000 loss: 202.78136006
+Accuracy: 0.679012
+Epoch 479 completed out of 1000 loss: 200.428362519
+Accuracy: 0.641975
+Epoch 480 completed out of 1000 loss: 199.667119056
+Accuracy: 0.62963
+Epoch 481 completed out of 1000 loss: 208.693612009
+Accuracy: 0.777778
+Epoch 482 completed out of 1000 loss: 202.004828215
+Accuracy: 0.666667
+Epoch 483 completed out of 1000 loss: 198.22491926
+Accuracy: 0.604938
+Epoch 484 completed out of 1000 loss: 200.459763706
+Accuracy: 0.641975
+Epoch 485 completed out of 1000 loss: 194.904294312
+Accuracy: 0.555556
+Epoch 486 completed out of 1000 loss: 197.19748053
+Accuracy: 0.592593
+Epoch 487 completed out of 1000 loss: 200.422780633
+Accuracy: 0.641975
+Epoch 488 completed out of 1000 loss: 203.65372321
+Accuracy: 0.691358
+Epoch 489 completed out of 1000 loss: 204.393868953
+Accuracy: 0.703704
+Epoch 490 completed out of 1000 loss: 199.645526052
+Accuracy: 0.62963
+Epoch 491 completed out of 1000 loss: 197.26606366
+Accuracy: 0.592593
+Epoch 492 completed out of 1000 loss: 205.117309451
+Accuracy: 0.716049
+Epoch 493 completed out of 1000 loss: 203.456644833
+Accuracy: 0.691358
+Epoch 494 completed out of 1000 loss: 195.763997883
+Accuracy: 0.567901
+Epoch 495 completed out of 1000 loss: 198.843392968
+Accuracy: 0.617284
+Epoch 496 completed out of 1000 loss: 206.597193033
+Accuracy: 0.740741
+Epoch 497 completed out of 1000 loss: 201.943543017
+Accuracy: 0.666667
+Epoch 498 completed out of 1000 loss: 204.247556955
+Accuracy: 0.703704
+Epoch 499 completed out of 1000 loss: 202.729484797
+Accuracy: 0.679012
+Epoch 500 completed out of 1000 loss: 201.972788602
+Accuracy: 0.666667
+Epoch 501 completed out of 1000 loss: 201.194711357
+Accuracy: 0.654321
+Epoch 502 completed out of 1000 loss: 200.452806085
+Accuracy: 0.641975
+Epoch 503 completed out of 1000 loss: 202.003392994
+Accuracy: 0.666667
+Epoch 504 completed out of 1000 loss: 204.9509812
+Accuracy: 0.716049
+Epoch 505 completed out of 1000 loss: 204.191996217
+Accuracy: 0.703704
+Epoch 506 completed out of 1000 loss: 204.136224359
+Accuracy: 0.703704
+Epoch 507 completed out of 1000 loss: 200.070871145
+Accuracy: 0.641975
+Epoch 508 completed out of 1000 loss: 203.481874108
+Accuracy: 0.691358
+Epoch 509 completed out of 1000 loss: 204.96010232
+Accuracy: 0.716049
+Epoch 510 completed out of 1000 loss: 207.040307969
+Accuracy: 0.753086
+Epoch 511 completed out of 1000 loss: 204.83911863
+Accuracy: 0.716049
+Epoch 512 completed out of 1000 loss: 205.636891067
+Accuracy: 0.728395
+Epoch 513 completed out of 1000 loss: 203.465916276
+Accuracy: 0.691358
+Epoch 514 completed out of 1000 loss: 208.325894088
+Accuracy: 0.777778
+Epoch 515 completed out of 1000 loss: 202.058422804
+Accuracy: 0.666667
+Epoch 516 completed out of 1000 loss: 202.011065751
+Accuracy: 0.666667
+Epoch 517 completed out of 1000 loss: 206.33657977
+Accuracy: 0.740741
+Epoch 518 completed out of 1000 loss: 204.873492151
+Accuracy: 0.716049
+Epoch 519 completed out of 1000 loss: 206.24742502
+Accuracy: 0.740741
+Epoch 520 completed out of 1000 loss: 202.068710268
+Accuracy: 0.666667
+Epoch 521 completed out of 1000 loss: 200.525337845
+Accuracy: 0.641975
+Epoch 522 completed out of 1000 loss: 204.983858645
+Accuracy: 0.716049
+Epoch 523 completed out of 1000 loss: 199.807896823
+Accuracy: 0.62963
+Epoch 524 completed out of 1000 loss: 204.22101739
+Accuracy: 0.703704
+Epoch 525 completed out of 1000 loss: 207.09716028
+Accuracy: 0.753086
+Epoch 526 completed out of 1000 loss: 202.722495794
+Accuracy: 0.679012
+Epoch 527 completed out of 1000 loss: 203.459873676
+Accuracy: 0.691358
+Epoch 528 completed out of 1000 loss: 203.45101735
+Accuracy: 0.691358
+Epoch 529 completed out of 1000 loss: 202.757241189
+Accuracy: 0.679012
+Epoch 530 completed out of 1000 loss: 202.726184219
+Accuracy: 0.679012
+Epoch 531 completed out of 1000 loss: 204.162653595
+Accuracy: 0.703704
+Epoch 532 completed out of 1000 loss: 207.068772942
+Accuracy: 0.753086
+Epoch 533 completed out of 1000 loss: 207.687347889
+Accuracy: 0.765432
+Epoch 534 completed out of 1000 loss: 209.004382998
+Accuracy: 0.790123
+Epoch 535 completed out of 1000 loss: 202.122995436
+Accuracy: 0.666667
+Epoch 536 completed out of 1000 loss: 200.614967912
+Accuracy: 0.641975
+Epoch 537 completed out of 1000 loss: 206.26925379
+Accuracy: 0.740741
+Epoch 538 completed out of 1000 loss: 199.826412648
+Accuracy: 0.62963
+Epoch 539 completed out of 1000 loss: 199.733243912
+Accuracy: 0.62963
+Epoch 540 completed out of 1000 loss: 201.263996929
+Accuracy: 0.654321
+Epoch 541 completed out of 1000 loss: 201.957488477
+Accuracy: 0.666667
+Epoch 542 completed out of 1000 loss: 205.751659244
+Accuracy: 0.728395
+Epoch 543 completed out of 1000 loss: 197.558491617
+Accuracy: 0.592593
+Epoch 544 completed out of 1000 loss: 203.472127229
+Accuracy: 0.691358
+Epoch 545 completed out of 1000 loss: 210.054511905
+Accuracy: 0.802469
+
+
