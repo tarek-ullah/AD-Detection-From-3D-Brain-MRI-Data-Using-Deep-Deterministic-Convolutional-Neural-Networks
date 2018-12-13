@@ -1,6 +1,6 @@
 # README #
 
-If you use this code for academic research, you are highly encouraged to cite the following paper by H. M. Tarek Ullah, ZishanAhmed Onik, Riashat Islam, Dip Nandi:
+If you use this code for academic research, you are highly encouraged to cite the following paper by H. M. Tarek Ullah, Zishan Ahmed Onik, Riashat Islam, Dip Nandi:
 
 H. M. T. Ullah, Z. Onik, R. Islam and D. Nandi, "Alzheimer's Disease and Dementia Detection from 3D Brain MRI Data Using Deep Convolutional Neural Networks," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, 2018, pp. 1-3.
 doi: 10.1109/I2CT.2018.8529808
@@ -26,4 +26,3 @@ Dependency :
 7. Jupyter Notebook
 8. https://www.floydhub.com/
 
-### Contribution guidelines ###
