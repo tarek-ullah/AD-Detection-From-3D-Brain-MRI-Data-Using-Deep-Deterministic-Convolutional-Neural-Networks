@@ -1,6 +1,6 @@
 # README #
 
-This repository is related to the thesis "ALzheimer's Disease & Dementia Detection From 3D Brain MRI Data Using Deep Convolutional Neural Networks."
+This repository is related to the thesis paper titled as "ALzheimer's Disease & Dementia Detection From 3D Brain MRI Data Using Deep Convolutional Neural Networks."
 This thesis paper was accepted and published by IEEE's 3rd INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY ( I2CT), PUNE, INDIA - 6-8 APRIL, 2018. The corresponding thesis paper of this code can be found in the following link
 https://ieeexplore.ieee.org/document/8529808
 
@@ -21,6 +21,7 @@ Dependency :
 5. OpenCV
 6. Matplotlib
 7. Jupyter Notebook
+8. https://www.floydhub.com/
 
 ### Contribution guidelines ###
 
