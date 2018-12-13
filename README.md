@@ -1,8 +1,11 @@
 # README #
 
-This repository is related to the thesis paper titled as "ALzheimer's Disease & Dementia Detection From 3D Brain MRI Data Using Deep Convolutional Neural Networks."
-This thesis paper was accepted and published by IEEE's 3rd INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY ( I2CT), PUNE, INDIA - 6-8 APRIL, 2018. The corresponding thesis paper of this code can be found in the following link
-https://ieeexplore.ieee.org/document/8529808
+If you use this code for academic research, you are highly encouraged to cite the following paper by H. M. Tarek Ullah, ZishanAhmed Onik, Riashat Islam, Dip Nandi:
+
+H. M. T. Ullah, Z. Onik, R. Islam and D. Nandi, "Alzheimer's Disease and Dementia Detection from 3D Brain MRI Data Using Deep Convolutional Neural Networks," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, 2018, pp. 1-3.
+doi: 10.1109/I2CT.2018.8529808
+keywords: {Alzheimer's disease;Magnetic resonance imaging;Three-dimensional displays;Biological neural networks;Neural Networks;Deep Learning;3D Brain MRI;Alzheimer's Disease And Dementia;Machine Learning;Big Data;High Dimensional Input},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529808&isnumber=8529154
 
 ### What is this repository for? ###
 
@@ -24,7 +27,3 @@ Dependency :
 8. https://www.floydhub.com/
 
 ### Contribution guidelines ###
-
-
-### Who do I talk to? ###
-H. M. Tarek Ullah
