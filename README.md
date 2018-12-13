@@ -26,3 +26,8 @@ Dependency :
 7. Jupyter Notebook
 8. https://www.floydhub.com/
 
+### License & Copyright ###
+
+Copyright (c) 2018 H. M. Tarek Ullah
+
+Licensed under the [MIT License](LICENSE)
